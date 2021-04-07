@@ -10,7 +10,7 @@ public class EntityTest {
         EntityTest entityTest = new EntityTest();
         entityTest.getNMetType();
 //        entityTest.getnMetType();
-        System.out.println("啊啊啊，我又改了");
+        System.out.println("啊啊啊");
     }
 }
 
