@@ -14,7 +14,7 @@ public class EntityTest {
         String[] arr = s.split("\\|",25);
         System.out.println(s.substring(0,7));
 
-        System.out.println("啊啊啊，我又改了");
+        System.out.println("啊啊啊");
     }
 }
 
